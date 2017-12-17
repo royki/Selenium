@@ -1,0 +1,10 @@
+*.class
+*.log
+target/
+bin/
+.settings/
+.classpath
+.cache
+.cache*
+.project
+.history
